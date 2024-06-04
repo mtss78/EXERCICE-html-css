@@ -1,1 +1,14 @@
-git init
+*{
+    margin: 0 auto;
+}
+
+header, footer{
+    background: pink;
+    height: 100px;
+    width: 100%;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+}
